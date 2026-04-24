@@ -1,2 +1,10 @@
 # roadmap.1
-My first project with roadmap.sh as a frontend developer
+# My HTML Project
+
+## Overview
+This is a simple HTML project that includes a favicon for branding.
+
+## Instructions to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hibadarjs-blip/roadmap.1.git
